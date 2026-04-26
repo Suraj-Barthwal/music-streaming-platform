@@ -11,7 +11,7 @@ public class APIHandler {
     	//--dump-json to write all the meta data in the terminal as json 
     	//--flatplaylist only calls simple data not too deep
     	//dlp has its own warnings it silences or not prints those.
-        return runYTDLP("ytsearch3:" + query, "--dump-json", "--flat-playlist", "--quiet");
+        return runYTDLP("ytsearch10:" + query, "--dump-json", "--flat-playlist", "--quiet");
     }
     
     

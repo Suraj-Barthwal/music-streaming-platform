@@ -1,6 +1,8 @@
 package com.musicplayer;
-import org.json.*;
+
 import java.util.*;
+
+import org.json.JSONObject;
 
 public class Parser {
     public static List<Track> parseSearchResults(String jsonOutput) 
