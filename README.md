@@ -46,6 +46,4 @@ music_streaming/
 │           └── TrackRenderer.java
 │
 └── README.md
-<img width="688" height="452" alt="image-1" src="https://github.com/user-attachments/assets/2d89404e-74bd-4a45-96bd-dd5cc1741f85" />
-<img width="960" height="1020" alt="image-2" src="https://github.com/user-attachments/assets/781a42a2-cab7-4b77-8710-c4ca66e69316" />
 
