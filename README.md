@@ -25,6 +25,10 @@ The project is built using Java and provides a graphical user interface for inte
 - **Java Collections** for playlist and track management
 - **Java Modules** for project organization
 
+## Screenshots
+<img width="688" height="452" alt="image-1" src="https://github.com/user-attachments/assets/bfa67fb0-99ef-400e-b0f6-3db6392ea102" />
+
+<img width="960" height="1020" alt="image-2" src="https://github.com/user-attachments/assets/5c5d643f-50a7-4904-aee7-8484bc881532" />
 ## Project Structure
 
 ```text
